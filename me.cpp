@@ -5,9 +5,9 @@ void setup() {
   DigiKeyboard.delay(1000);
   DigiKeyboard.println("d:");
   DigiKeyboard.delay(1000);
-  DigiKeyboard.println("type nul>Digispark.txt");
+  DigiKeyboard.println("type nul>me.txt");
   DigiKeyboard.delay(1000);
-  DigiKeyboard.println("start notepad \"Digispark.txt\"");
+  DigiKeyboard.println("start notepad \"me.txt\"");
   DigiKeyboard.delay(1000);
   DigiKeyboard.print("I_am_everywhere");
   
